@@ -1,6 +1,8 @@
 # final_projects2016
 
-The project descriptions are in 
-https://dl.dropboxusercontent.com/u/9787379/cmpe482/projects_spring2016.pdf
+CMPE 482 Final Projects, by Ali Caner Turkmen.
 
-Prepare a jupyter notebook and submit a report that contains your descriptions an code.
+- In the first file `project1.ipynb`, we provide answers to the first project assignment. 
+- In the second file, `project2.ipynb`, we perform spectral clustering for the second project. We also extract the kernel calculation to Cython to speed things up over 1000x times.
+- Having gotten Cython into the mix, we take the time to present a short tutorial on Cython, in `Cython.ipynb`.
+ 
