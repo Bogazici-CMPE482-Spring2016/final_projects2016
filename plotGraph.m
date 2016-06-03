@@ -1,4 +1,4 @@
-function plotGraph(points,G)
+function plotGraph(points,G,labels)
     N=size(points,1);
     hold on;
     plot(points(:,1),points(:,2),'b.');
